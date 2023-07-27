@@ -5,9 +5,9 @@
       color: white;
       border: none;
       border-radius: 5px;
-      padding: 10px 20px;
-      cursor: pointer;
-      outline: none; /* Add this to remove the outline on focus */
+/*       padding: 10px 20px; */
+/*       cursor: pointer;
+      outline: none; /* Add this to remove the outline on focus */ */
     }
  #btn:hover {
       background-color: yellow;
